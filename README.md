@@ -1,4 +1,5 @@
 # Pontoon
+Project which plays the game of pontoon with AI's.
 This was the first programming project I ever created.
 Reading through this project now, I can see the lack of exprience in the style of writing, through its lack of objected oriented programming.
 Were I to have written this project now, I would certainly have used a plethora of appropriate functions to create a simpler structure which could be more easily edited.
